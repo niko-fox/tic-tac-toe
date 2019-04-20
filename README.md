@@ -27,6 +27,3 @@ Before getting started, it's also worth quickly touching on the color scheme tha
 - small tic-tac-toe logo, maybe something along the lines of (TTT) with one of the T's subscripted in the center
 - font-families will be imported from Google Fonts, and I can choose an effective font pairing using fontsinuse.com, or another Typography resource
 - Why Fonts Matter may also prove to be a useful resource for typeface pairing
-
-
-suck my big donkey balls my dude
