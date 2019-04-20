@@ -1,4 +1,4 @@
-#Tic Tac Toe: 
+Tic Tac Toe: 
 
 As an introduction: I am currently working through Colt Steele's Web Developer Bootcamp, and a very common first project for HTML, CSS and Javascript is creating a simple Tic-Tac-Toe board, as a method of practicing front-end interactions. This is fun, but I'd like to take it one small step further, by making the game fully-functional – with a dedicated landing page that would serve as the home screen,two different modes of play, and nice little touches on the UI design to make it a warm, friendly game to play. 
 
