@@ -28,3 +28,4 @@ Before getting started, it's also worth quickly touching on the color scheme tha
 - font-families will be imported from Google Fonts, and I can choose an effective font pairing using fontsinuse.com, or another Typography resource
 - Why Fonts Matter may also prove to be a useful resource for typeface pairing
 
+- the X's should be two penises, and the O's should be a butthol
