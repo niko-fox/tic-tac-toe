@@ -1,0 +1,22 @@
+/* some notes: when you use %'s' for things like width,
+height,
+and so on,
+you're talking about percentages of the parent element. in this case, that's going to be body. using percentages can help ensure that your design is responsive!  */
+
+body {
+    font-family: 'Lato', sans-serif;
+    color: whitesmoke;
+    background-color: black;
+    text-align: center;
+}
+
+p {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top,
+    margin-bottom: 10px;
+    width: 150px;
+    padding: 20px;
+    border: 1px solid white;
+    position: relative;
+}
