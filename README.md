@@ -1,5 +1,5 @@
 Tic Tac Toe: 
-markdown is a cool file format because you can send penises through the internet!
+
 As an introduction: I am currently working through Colt Steele's Web Developer Bootcamp, and a very common first project for HTML, CSS and Javascript is creating a simple Tic-Tac-Toe board, as a method of practicing front-end interactions. This is fun, but I'd like to take it one small step further, by making the game fully-functional – with a dedicated landing page that would serve as the home screen,two different modes of play, and nice little touches on the UI design to make it a warm, friendly game to play. 
 
 This will not be a one-day project, and I aim to use it to practice prototyping in Adobe XD, version control in GitHub, my HTML5 coding and design skills, and my ability to write effective user stories. This is an independent project, so I will be the product manager as well as the developer and the designer, and as I dive deeper into it, I will wear many hats as I test, refine and learn. So here we go: 
